@@ -1,0 +1,93 @@
+[15-Jan-2023 17:17:32 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[15-Jan-2023 17:17:32 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[15-Jan-2023 17:17:32 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[15-Jan-2023 17:17:32 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[15-Jan-2023 17:17:32 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[15-Jan-2023 17:18:55 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[20-Jan-2023 14:29:38 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:29:38 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:29:38 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:29:38 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:29:38 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[20-Jan-2023 14:30:09 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:30:09 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:30:09 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:30:09 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[20-Jan-2023 14:30:09 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 11:10:21 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 11:10:21 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 11:10:21 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 11:10:21 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 11:10:21 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 12:10:44 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:10:44 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:10:44 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:10:44 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:10:44 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 12:11:22 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:11:22 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:11:22 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:11:22 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:11:22 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 12:28:24 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:28:24 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:28:24 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:28:24 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:28:24 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 12:29:28 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:29:28 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:29:28 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:29:28 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:29:28 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[21-Jan-2023 12:50:38 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:50:38 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:50:38 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:50:38 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[21-Jan-2023 12:50:38 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[04-Feb-2023 10:42:31 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:42:31 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:42:31 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:42:31 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:42:31 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[04-Feb-2023 10:44:29 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:44:29 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:44:29 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:44:29 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[04-Feb-2023 10:44:29 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[04-Feb-2023 12:17:58 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$ResponseCode in /home/kvjiotpu/public_html/mpesa/index.php on line 127
+[04-Feb-2023 12:20:02 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$ResponseCode in /home/kvjiotpu/public_html/mpesa/index.php on line 127
+[06-Feb-2023 13:40:52 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$ResponseCode in /home/kvjiotpu/public_html/mpesa/index.php on line 130
+[06-Feb-2023 13:44:08 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:08 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:08 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:08 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:08 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[06-Feb-2023 13:44:46 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:46 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:46 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:46 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[06-Feb-2023 13:44:46 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[07-Feb-2023 16:06:55 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$CallbackMetadata in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[07-Feb-2023 16:06:55 Africa/Nairobi] PHP Notice:  Trying to get property 'Item' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[07-Feb-2023 16:06:55 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[07-Feb-2023 16:06:55 Africa/Nairobi] PHP Notice:  Trying to get property 'Value' of non-object in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 23
+[07-Feb-2023 16:06:55 Africa/Nairobi] PHP Notice:  Undefined property: stdClass::$num_rows in /home/kvjiotpu/public_html/mpesa/mpesa_callback.php on line 38
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Warning:  include(../core/init.php): failed to open stream: No such file or directory in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 2
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Warning:  include(): Failed opening '../core/init.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 2
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Notice:  Undefined variable: _SESSION in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 3
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Notice:  Trying to access array offset on value of type null in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 3
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Notice:  Undefined variable: con in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 5
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 5
+[07-Feb-2023 22:48:42 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php:5
+Stack trace:
+#0 /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php(2): include()
+#1 {main}
+  thrown in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/student-data.php on line 5
+[07-Feb-2023 22:49:26 Africa/Nairobi] PHP Warning:  include(./student-data.php): failed to open stream: No such file or directory in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:49:26 Africa/Nairobi] PHP Warning:  include(): Failed opening './student-data.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:50:27 Africa/Nairobi] PHP Warning:  include(./student-data.php): failed to open stream: No such file or directory in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:50:27 Africa/Nairobi] PHP Warning:  include(): Failed opening './student-data.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:50:27 Africa/Nairobi] PHP Notice:  Undefined variable: first_name in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 5
+[07-Feb-2023 22:52:01 Africa/Nairobi] PHP Warning:  include(./student-data.php): failed to open stream: No such file or directory in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:52:01 Africa/Nairobi] PHP Warning:  include(): Failed opening './student-data.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 2
+[07-Feb-2023 22:52:01 Africa/Nairobi] PHP Notice:  Undefined variable: id in /home/kvjiotpu/public_html/cos-app/applicant-dashboard/includes/mpesa/index.php on line 5

@@ -1,0 +1,33 @@
+MPESA ENDPOINT USAGE
+
+Link http://myonlineduka.com/test/?mpesa=true
+
+to use the mpesa popup link,
+add the following parameters to the link
+
+1. phone
+2. amount
+
+add them in this order : &?phone=phonenumber&amount=10
+
+example
+
+http://myonlineduka.com/test/?mpesa=true&phone=254704219247&amount=1
+
+
+response .
+You will get a json response of the following
+
+{
+    'status':'success',
+    'message:'response message'
+}
+
+status will either be success or error
+
+{
+    'status':'error',
+    'message:'response message'
+}
+
+// then spin the result around
